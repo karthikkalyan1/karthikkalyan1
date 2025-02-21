@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: The day I started coding! 😆<br><br><br>📚 Currently Learning:<br><br>🫧 Data Science<br>🫧 SQL & Database Management<br>🫧 AI & Machine Learning<br>🫧 Emerging Technologies<br><br><br>💻 Passionate About:<br><br>🫧 Problem-solving and innovation<br>🫧 Building scalable and efficient solutions<br>🫧 Exploring AI, automation, and cloud platforms<br>🫧 Blending Data Science, AI, and software engineering to create impactful solutions<br><br><br>🎯 Goals:<br><br>🫧 Strengthen my expertise in Data Science and AI-ML<br>🫧 Work on real-world impactful projects<br>🫧 Continuously upskill and stay ahead in the evolving tech landscape<br><br><br>👨‍💻 My skills:<br><br>🐍 Python<br>💾 SQL & MySQL<br>⚙️ Figma <br>👨‍💻 C & OOPs<br>📊 Artificial Intelligence & Machine Learning<br><br><br>🛠️ Projects<br>🚘 Drivers' Drowsiness Detection – Developed a machine learning project for real-time monitoring and road safety.<br><br><br>🔍 Always Curious, Always Exploring – Whether it’s coding, AI research, or experimenting with new ideas, I love pushing the boundaries of what’s possible.</p>
+<p align="left">✨ Creating bugs since: The day I started coding! 😆<br><br><br>📚 Currently Learning:<br><br>🫧 Data Science<br>🫧 SQL & Database Management<br>🫧 AI & Machine Learning<br>🫧 Emerging Technologies<br><br><br>💻 Passionate About:<br><br>🫧 Problem-solving and innovation<br>🫧 Building scalable and efficient solutions<br>🫧 Exploring AI, automation, and cloud platforms<br>🫧 Blending Data Science, AI, and software engineering to create impactful solutions<br><br><br>🎯 Goals:<br><br>🫧 Strengthen my expertise in Data Science and AI-ML<br>🫧 Work on real-world impactful projects<br>🫧 Continuously upskill and stay ahead in the evolving tech landscape<br><br><br>👨‍💻 My skills:<br><br>🐍 Python<br>💾 SQL & MySQL<br>⚙️ Figma<br>👨‍💻 C & OOPs<br>📊 Artificial Intelligence & Machine Learning<br><br><br>🛠️ Projects<br>🚘 Drivers' Drowsiness Detection – Developed a machine learning project for real-time monitoring and road safety.<br><br><br>🔍 Always Curious, Always Exploring – Whether it’s coding, AI research, or experimenting with new ideas, I love pushing the boundaries of what’s possible.</p>
 
 ###
 
@@ -49,11 +49,8 @@
 
 ###
 
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvskeerthana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikkalyan1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikkalyan1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikkalyan1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
